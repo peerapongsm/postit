@@ -1,0 +1,36 @@
+.board {
+  margin: 5vh 5vw 0 5vw;
+  background-color: #2dd4d3;
+  padding: 2vw
+}
+
+.card {
+  margin: 1ch;
+}
+
+#posts {
+  display: flex;
+  flex-wrap: wrap-reverse;
+}
+
+#user-title {
+  display: flex;
+  padding: 1vh;
+}
+
+#divider {
+  width: 2ch;
+}
+
+#title {
+  background: white;
+}
+
+#username {
+  background: white;
+}
+
+#content {
+  background: white;
+  padding: 1vh;
+}
